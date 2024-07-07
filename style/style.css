@@ -288,3 +288,13 @@ header{
     flex-direction: column;
     gap: 10px;
 }
+.submit-btn{
+    width: 100px;
+    background-color: #FD6E0A;
+    color: white;
+    font-size: 20;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
